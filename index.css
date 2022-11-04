@@ -479,10 +479,15 @@
 }
 
 .u-section-5 .u-text-5 {
-  margin: 19px 0 0;
+  margin: 17px 0 0;
 }
 
 .u-section-5 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-5 .u-btn-3 {
   background-image: none;
   padding: 0;
 }
@@ -537,7 +542,7 @@
   margin: 30px 0 0;
 }
 
-.u-section-5 .u-btn-3 {
+.u-section-5 .u-btn-4 {
   background-image: none;
   border-style: solid;
 }
