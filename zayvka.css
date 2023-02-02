@@ -122,58 +122,108 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 508px;
+    min-height: 246px;
   }
 
   .u-section-2 .u-list-1 {
     height: auto;
+    margin-top: 1px;
+    margin-bottom: 1px;
   }
 
   .u-section-2 .u-repeater-1 {
     grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
     min-height: 245px;
   }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-right: -62px;
+    margin-left: 136px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-right: -69px;
+    margin-left: 129px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin-right: -62px;
+    margin-left: 136px;
+  }
+
+  .u-section-2 .u-text-4 {
+    width: auto;
+    margin-right: -69px;
+    margin-left: 129px;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 770px;
+    min-height: 268px;
   }
 
   .u-section-2 .u-list-1 {
-    margin-top: 266px;
+    margin-top: 23px;
+    margin-bottom: 0;
   }
 
   .u-section-2 .u-repeater-1 {
     grid-template-columns: calc(50% - 5px) calc(50% - 5px);
     grid-auto-columns: calc(100% - 0px);
   }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 770px;
+  }
+
   .u-section-2 .u-repeater-1 {
     grid-auto-columns: 100%;
-  }
-
-  .u-section-2 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 315px;
+    min-height: 308px;
   }
 
   .u-section-2 .u-list-1 {
-    margin-top: 4px;
-    margin-bottom: 4px;
+    margin-top: 0;
   }
 
   .u-section-2 .u-repeater-1 {
